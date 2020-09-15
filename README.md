@@ -9,7 +9,7 @@ PermissionManagerAPP
 
 ## How to run
 
-1. Open directory **PermissionManagerAPP\PermissionManager.App\clientapp** in command line and execute **npm run restore**.
+1. Open directory **PermissionManagerAPP\PermissionManager.App\clientapp** in command line and execute **npm install** and next **npm run serve**.
 2. Open **PermissionManagerAPP\PermissionManager\PermissionManager.sln** in Visual Studio.
 3. Set **PermissionManager.App** as startup project.
 4. Press **F5**.
